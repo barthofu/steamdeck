@@ -1,3 +1,3 @@
 # Steam Deck
 
-Guides and resources about my SteamDeck journey.
+> Guides and resources on my Steam Deck journey.
