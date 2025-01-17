@@ -35,7 +35,9 @@ There is two methods for installing quacked games: using Steam or using Lutris. 
     10. Click on `Continue`
     11. Browser to the installer's executable
     12. Click on `Install
-7. Then follow the installer's instructions. You should install the game in the `Z:` drive (e.g: `Z:\home\deck\Games\<your_game_name>`).
+7. Then follow the installer's instructions. 
+    - You should install the game in the `Z:` drive (e.g: `Z:\home\deck\Games\<your_game_name>`)
+    - If using *fitgirl-repacks* for example, make sure to uncheck all the extra actions starting with "Update" after the installation.
 8. Tada 🎉
 
 ## Play quacked games
